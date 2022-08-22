@@ -1,6 +1,7 @@
 {
   "packs": [
-    "emotes.json"
+    "emotes.json",
+    "emotes2.json"
   ],
   "homeserver_url": "https://cuteworld.space"
 }
